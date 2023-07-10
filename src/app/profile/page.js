@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      soy home
+      soy profile
     </div>
       )
 }
